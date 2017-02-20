@@ -1,2 +1,2 @@
 logging.level.org.openhealthtools.ihe.atna.auditor: TRACE
-logging.level.org.apache.cxf.phase: trace
+#logging.level.org.apache.cxf.phase: trace
